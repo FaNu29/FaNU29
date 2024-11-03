@@ -2,7 +2,7 @@
 A passionate final-year Computer Science and Engineering student 👩‍💻, diving into the exciting fields of Machine Learning and Artificial Intelligence 🤖. My tech journey has led me to explore mobile app development 🌐 using Flutter 📱 while enhancing my software development skills.
 
 🌟 About Me
-🎓 CSE Student | 💡 Lifelong Learner
+🎓 CSE Student | 💡 Lifelong Learner <br>
 📘 Machine Learning Beginner – focused on research applications and practical solutions
 🧠 Math Enthusiast – my love for math fuels my exploration of ML and algorithms
 🚀 Aspiring AI/ML Engineer – eager to turn theory into impactful solutions
